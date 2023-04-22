@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+body {
+    font-family: "Roboto" !important;
+    background-color: lightgray !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.logo {
+    width: 6rem;
+}
+
+.card-img-size {
+    border-radius: 0.5rem;
+}
+
+.card-style {
+    border-radius: 2rem;
+    padding: 0.5rem;
+    width: 30rem;
+}
+
+.card-style img {
+    border-radius: 0.5rem;
+}
+
+.card-style:hover{
+    transform: scale(1.05);
+}
